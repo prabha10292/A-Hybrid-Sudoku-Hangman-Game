@@ -1,8 +1,5 @@
 # A Hybrid Sudoku Hangman Game
-A unique twist on two classic games—Sudoku and Hangman—combined into a single interactive Python-based experience. Solve Sudoku puzzles while avoiding wrong guesses in a Hangman challenge!
-
-# Sudomania: A Hybrid Sudoku + Hangman Game 
-Sudomania is a creative fusion of two beloved games—**Sudoku** and **Hangman**—designed in Python. Test your logic and vocabulary as you solve Sudoku puzzles with an added twist: wrong inputs could cost you in a Hangman-style penalty!
+A unique twist on two classic games—Sudoku and Hangman—combined into a single interactive Python-based experience. Solve Sudoku puzzles while avoiding wrong guesses in a Hangman challenge. Test your logic and vocabulary as you solve Sudoku puzzles with an added twist: wrong inputs could cost you in a Hangman-style penalty!
 
 ## Features
 
